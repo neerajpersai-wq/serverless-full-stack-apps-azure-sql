@@ -267,3 +267,4 @@ __pycache__/
 *.zip
 transit/
 SampleData/
+.github/workflows/azuresqldatabase.yml - Copy.template
